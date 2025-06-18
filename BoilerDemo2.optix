@@ -141,10 +141,10 @@ Project:
    Uri: '8fc23f9f84644d01a46eb2dd8457ae5e#http://www.unifiedautomation.com/DemoServer/'
    ServerUri: 8fc23f9f84644d01a46eb2dd8457ae5e
  Statistics:
-  TotalNodeCount: 8119
-  Objects: 1541
+  TotalNodeCount: 9126
+  Objects: 1836
   ObjectTypes: 68
-  Variables: 6477
+  Variables: 7189
   VariableTypes: 1
   DataTypes: 2
   Methods: 30
